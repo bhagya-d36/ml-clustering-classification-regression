@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-This project was done as part of a university project and explores **three real-world datasets from the UCI Machine Learning Repository** using both **unsupervised** and **supervised** learning techniques.  
+This task was done as part of a university project and explores **three real-world datasets from the UCI Machine Learning Repository** using both **unsupervised** and **supervised** learning techniques.  
 The goal was to formulate research questions, build predictive models, compare algorithm performance, and contextualize findings with existing literature.
 
 ---
