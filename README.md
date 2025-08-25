@@ -33,7 +33,7 @@ The goal was to formulate research questions, build predictive models, compare a
 ---
 
 ## ⚙️ Tech Stack
-- **Python 3.x**  
+- **Python 3.11**  
 - Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`, `jupyter`  
 
 ---
