@@ -8,7 +8,7 @@ The goal was to formulate research questions, build predictive models, compare a
 ## 📊 Datasets
 - Three datasets selected from the [UCI ML Repository](https://archive.ics.uci.edu/).  
 - Each dataset covers different domains to ensure diverse analysis.  
-- Preprocessing steps applied: cleaning, normalization, handling missing values/outliers, feature engineering, and more.
+- Preprocessing steps applied: cleaning, normalization, handling missing values & outliers, feature engineering, and more.
 
 ---
 
